@@ -1,0 +1,11 @@
+{
+    "models": [
+    	"tororo",
+    	"hijiki"
+    ],
+    
+    "messages": [
+        "喵 ~",
+        "喵呜 ~"
+    ]
+}
